@@ -1,12 +1,12 @@
 <h2 align="center">Hey there, I'm <span style="color:#6A5ACD">Vivek</span> 👋</h2>
-<h4 align="center">Data Analyst • MBA (Finance & Digital Transformation) • Excel, Python, SQL & Power BI 📊</h4>
+<h4 align="center">Financial Analyst • Equity Research & 3-Statement Modelling • MBA (Finance & Digital Transformation) 📊</h4>
 
 ---
 
 <img align="right" height="200" width="266" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left">
-I'm a data analyst passionate about turning large datasets into business decisions — from time-series forecasting on multi-billion-dollar sales data to equity research and 3-statement financial models.
+I'm a financial analyst who builds integrated 3-statement models, DCF valuations and equity research notes on Indian listed companies — and backs them with data analysis, from time-series forecasting on multi-billion-dollar sales data to market-wide EV sales studies.
 I enjoy building interactive dashboards, automating analysis with AI-assisted Excel workflows, and digging into financial markets.
 When not crunching numbers, I'm exploring new AI tools and tracking the markets 📈
 </p>
@@ -21,19 +21,28 @@ When not crunching numbers, I'm exploring new AI tools and tracking the markets 
 
 <table>
   <tr>
-    <td align="left" valign="middle"><strong>🧠 Languages</strong></td>
+    <td align="left" valign="middle"><strong>💹 Domain</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" alt="languages" />
-      <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" />
+      <img src="https://img.shields.io/badge/Financial_Modeling-0B6E4F?style=for-the-badge" height="28" />
+      <img src="https://img.shields.io/badge/DCF_Valuation-1F6FEB?style=for-the-badge" height="28" />
+      <img src="https://img.shields.io/badge/Forecasting_(ARIMA)-8250DF?style=for-the-badge" height="28" />
     </td>
   </tr>
 
   <tr>
     <td align="left" valign="middle"><strong>📊 Analytics & BI</strong></td>
     <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
       <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
       <img src="https://img.shields.io/badge/Excel_with_AI-6A5ACD?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle"><strong>🧠 Languages</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" alt="languages" />
+      <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" />
     </td>
   </tr>
 
@@ -44,15 +53,6 @@ When not crunching numbers, I'm exploring new AI tools and tracking the markets 
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" />
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="28" />
       <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white" height="28" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" valign="middle"><strong>💹 Domain</strong></td>
-    <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/Financial_Modeling-0B6E4F?style=for-the-badge" height="28" />
-      <img src="https://img.shields.io/badge/DCF_Valuation-1F6FEB?style=for-the-badge" height="28" />
-      <img src="https://img.shields.io/badge/Forecasting_(ARIMA)-8250DF?style=for-the-badge" height="28" />
     </td>
   </tr>
 
