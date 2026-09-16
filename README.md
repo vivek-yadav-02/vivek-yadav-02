@@ -76,7 +76,7 @@ When not crunching numbers, I'm exploring new AI tools and tracking the markets 
 📈 <strong><a href="https://github.com/vivek-yadav-02/Colorado-MV-Finanical-Analysis">Sales Forecasting Models</a></strong> — ARIMA & Random Forest on 8 years of US motor vehicle sales ($88.2B) with 95% confidence intervals<br/>
 🇮🇳 <strong><a href="https://github.com/vivek-yadav-02/Electric-vehicle-sales-report">India EV Market Analysis</a></strong> — 96,845 records (2014–2024) analyzed with pandas & Matplotlib, mapping growth from 2.4K to 1.5M+ annual units<br/>
 📊 <strong>Interactive Excel Dashboards</strong> — pivot tables, slicers & one-click drill-downs for stakeholder decision-making<br/>
-💰 <strong>Equity Research & Valuation</strong> — integrated 3-statement models with DCF for Infosys and Tata Motors<br/>
+💰 <strong><a href="https://github.com/vivek-yadav-02/equity-research">Equity Research & Valuation</a></strong> — integrated 3-statement models with DCF for Tata Motors and Asian Paints<br/>
 🏦 <strong>Investment & Loan Analysis</strong> — NPV, IRR & EMI modeling with What-If and scenario analysis
 </p>
 
